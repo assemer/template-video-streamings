@@ -1,0 +1,36 @@
+body{
+    background-color: #151618;
+    padding: 0px 30px;
+    font-family: monospace;
+}
+.section
+{
+    background-color: #1C1D1F;
+    border: none;
+    color: snow;
+    border-radius: 20px;
+    padding: 10px 40px;
+}
+.serieAnim
+{
+    border-radius: 5px;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    cursor: pointer;
+
+    transition: all 0.2s;
+
+}
+.serieAnim:hover{
+    background-size: 130%;
+}
+.serie_qsd{
+    background-size: 100%;
+    height: 25vh;
+}
+.FontsGUGI
+{
+    font-family: gugi;
+}
