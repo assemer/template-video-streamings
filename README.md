@@ -1,7 +1,7 @@
 
 
 # Streming Video Web Template
-![alt](View.png)
+![alt](view.png)
 
 This is My Progect, Littel webSite Streaming Video Films And Series Like Netflix .<br>
 You can Use it, it free and OpenSource<br>
