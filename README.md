@@ -5,6 +5,7 @@
 
 This is My Progect, Littel webSite Streaming Video Films And Series Like Netflix .<br>
 You can Use it, it free and OpenSource<br>
+[ SORRY ABOUT THE ERROR ON ORTHOGRAPHE ]
 
 ### About Langage Programing
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
